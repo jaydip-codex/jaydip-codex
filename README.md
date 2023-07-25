@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaydip-codex
+- 👋 Hi, I’m Jaydip Patel (MS Computer Science)
 - 👀 I’m interested in learning New Technology
 - 🌱 I’m currently learning MERN/MEAN Stack
 - 💞️ I’m looking to collaborate on Future projects
